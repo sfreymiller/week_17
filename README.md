@@ -1,3 +1,3 @@
-# week_17
+# Week 17 Homework
 
-Unsupervised learning with the California housing data
+Unsupervised learning with California housing data
